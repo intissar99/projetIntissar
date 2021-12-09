@@ -38,7 +38,7 @@ const useStyles= makeStyles((theme)=>({
         fontSize: '2rem',
       },
       goDown: {
-        color: '#66b0ab',
+        color: '#fff',
         fontSize: '4rem',
       },
 }));
